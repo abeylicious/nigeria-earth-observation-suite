@@ -1,5 +1,3 @@
-# nigeria-earth-observation-suite
-Decadal change detection suite analyzing urban expansion, climate dynamics, and agricultural health across Nigeria using Google Earth Engine and QGIS.
 # 🇳🇬 Nigeria Earth Observation Suite
 ### Decadal Change Detection in Urban Sprawl, Climate Dynamics & Agriculture (2015–2025)
 
