@@ -16,10 +16,10 @@ The portfolio bridges multi-sensor remote sensing methodologies—ranging from *
 
 | # | Case Study Title | Geographic Focus | Key Datasets & Sensors | Core Analytical Focus | Report Link |
 | :-: | :--- | :--- | :--- | :--- | :-: |
-| **01** | **Interstate Urban Encroachment** | Lagos–Ogun Corridor | VIIRS DNB, OpenStreetMap | Mapped decadal urban sprawl across state lines; evaluated a ~130% radiance surge along the Lagos–Ibadan E1 highway. | [Explore Repo](./01_Lagos_Ogun_Interstate_Sprawl) |
-| **02** | **Capital Settlement Dynamics** | Abuja (FCT) | VIIRS DNB, Landsat | Quantified baseline growth, satellite city expansion, and core radiance intensification across the central territory. | [Explore Repo](./02_Abuja_Settlement_Dynamics) |
-| **03** | **Decadal Dual-Zone Climate Analysis** | Lagos vs. Maiduguri | CHIRPS, ERA5, MODIS LST | Compared 10-year climate trends (precipitation & land surface temperature) between coastal humid and northern arid biomes. | [Explore Repo](./03_Lagos_Maiduguri_Climate_Analysis) |
-| **04** | **High-Resolution NDVI Dynamics** | Rukuba Farm (Plateau) | Sentinel-2, Landsat 8/9 | Multi-temporal vegetation index tracking; evaluated seasonal phenology, irrigation cycles, and crop health metrics. | [Explore Repo](./04_Rukuba_Farm_NDVI_Dynamics) |
+| **01** | **Interstate Urban Encroachment** | Lagos–Ogun Corridor | VIIRS DNB, OpenStreetMap | Mapped decadal urban sprawl across state lines; evaluated a ~130% radiance surge along the Lagos–Ibadan E1 highway. | [Explore Repo](https://github.com/abeylicious/lagos-ogun-sprawl) |
+| **02** | **Capital Settlement Dynamics** | Abuja (FCT) | VIIRS DNB, Landsat | Quantified baseline growth, satellite city expansion, and core radiance intensification across the central territory. | [Explore Repo](https://github.com/abeylicious/abuja-settlement) |
+| **03** | **Decadal Dual-Zone Climate Analysis** | Lagos vs. Maiduguri | CHIRPS, ERA5, MODIS LST | Compared 10-year climate trends (precipitation & land surface temperature) between coastal humid and northern arid biomes. | [Explore Repo](https://github.com/abeylicious/lagos-maiduguri-climate) |
+| **04** | **High-Resolution NDVI Dynamics** | Rukuba Farm (Plateau) | Sentinel-2, Landsat 8/9 | Multi-temporal vegetation index tracking; evaluated seasonal phenology, irrigation cycles, and crop health metrics. | [Explore Repo](https://github.com/abeylicious/rukuba-farm-ndvi) |
 
 ---
 
