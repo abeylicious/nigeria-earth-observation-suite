@@ -1,0 +1,12 @@
+[submodule "01_Lagos_Ogun_Interstate_Sprawl"]
+	path = 01_Lagos_Ogun_Interstate_Sprawl
+	url = https://github.com/abeylicious/lagos-ogun-settlement-sprawl.git
+[submodule "02_Abuja_Settlement_Dynamics"]
+	path = 02_Abuja_Settlement_Dynamics
+	url = https://github.com/abeylicious/abuja-settlement-expansion.git
+[submodule "03_Lagos_Maiduguri_Climate_Analysis"]
+	path = 03_Lagos_Maiduguri_Climate_Analysis
+	url = https://github.com/abeylicious/lagos-maiduguri-climate.git
+[submodule "04_Rukuba_Farm_NDVI_Dynamics"]
+	path = 04_Rukuba_Farm_NDVI_Dynamics
+	url = https://github.com/abeylicious/rukubu-farm-ndvi.git
